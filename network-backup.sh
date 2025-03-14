@@ -1,8 +1,9 @@
 #!/bin/bash
+# Kyle Vandoremalen - March 2025
 # Backup network config files
-
 # Set the backup variables
 # Edit the TAR_NAME so each server gets its own network backup file (replace 'apache')
+
 BACKUP_DIRECTORY="/backups/apache"
 TAR_NAME="apache_network_backup.tar.gz"
 BACKED_UP_FILES=()
