@@ -1,4 +1,5 @@
 #!/bin/bash
+# Kyle Vandoremalen - March 2025
 # Copies backup tarball back to service server and restores files or directories
 # Edit to match your service/server variables
 
