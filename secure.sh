@@ -1,4 +1,5 @@
 #!/bin/bash
+# Kyle Vandoremalen - March 2025
 # General security checkup of users, connections and services/jobs
 
 #clear screen before outputting results
